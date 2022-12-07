@@ -1,7 +1,7 @@
 ![MasterHead](https://greenartha-newgara.azurewebsites.net/task_data/files/1470658958banner-bigdata.jpg)
 <h1 align="center">Hi 👋, I'm v.jaya manesh</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align="right" alt="Coding" width="350" src="https://soyhorizonte.com/wp-content/uploads/2020/01/analitycs_giphy.gif">
+<img align="right" alt="Coding" width="360" src="https://soyhorizonte.com/wp-content/uploads/2020/01/analitycs_giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaya-manesh&label=Profile%20views&color=0e75b6&style=flat" alt="jaya-manesh" /> </p>
 
