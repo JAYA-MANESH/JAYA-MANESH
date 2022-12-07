@@ -1,11 +1,9 @@
 ![MasterHead](https://greenartha-newgara.azurewebsites.net/task_data/files/1470658958banner-bigdata.jpg)
 <h1 align="center">Hi 👋, I'm v.jaya manesh</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align="right" alt="Coding" width="345" src="https://soyhorizonte.com/wp-content/uploads/2020/01/analitycs_giphy.gif">
+<img align="right" alt="Coding" width="340" src="https://soyhorizonte.com/wp-content/uploads/2020/01/analitycs_giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaya-manesh&label=Profile%20views&color=0e75b6&style=flat" alt="jaya-manesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaya-manesh" alt="jaya-manesh" /></a> </p>
 
 - 🌱 I’m currently learning **machine learning etc**
 
@@ -16,6 +14,12 @@
 - 📫 How to reach me **jaya123manesh@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaya-manesh&label=Profile%20views&color=0e75b6&style=flat" alt="jaya-manesh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaya-manesh" alt="jaya-manesh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
